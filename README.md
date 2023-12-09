@@ -52,7 +52,7 @@ For example, you might say, "Oliver, can you pick up the trash on the first floo
 
 ## Demonstration
 Watch Oliver in action and see how he interacts with users in this video: 
-[![Video](https://youtu.be/bHiHujXHWiA))
+[![Oliver Robot]](https://youtu.be/bHiHujXHWiA "Oliver Robot")
 
 ## Troubleshooting
 - Ensure your microphone is properly set up and working.

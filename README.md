@@ -47,6 +47,7 @@ Interact with Oliver Robot as you would with a friendly office colleague. Begin 
 - **Engaging**: Oliver has a warm and inviting personality, making interactions pleasant.
 - **Helpful**: Whether it's setting reminders or providing updates, Oliver is here to help.
 - **Witty**: Expect a clever quip or a light-hearted joke to brighten your day.
+
 The robot will respond and perform actions based on the given commands. It can interact, provide status updates, or acknowledge requests like "empty trash."
 For example, you might say, "Oliver, can you pick up the trash on the first floor?" and Oliver will take care of trash for you.
 
